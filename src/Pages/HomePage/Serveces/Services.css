@@ -1,0 +1,16 @@
+.services-page .slick-dots{
+    bottom:-50px;
+}
+.services-page .slick-dots li button::before{
+    font-size:0px;
+}
+.services-page .slick-dots li{
+    display:inline-block;
+    background-color:#1BBDE4;
+    width:10px;
+    height:10px;
+}
+.services-page .slick-dots li.slick-active{
+    background-color:#262626;
+    width:30px;
+}

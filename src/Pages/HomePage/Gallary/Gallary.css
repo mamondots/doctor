@@ -1,0 +1,30 @@
+.gallary-box{
+    position: relative;
+    cursor: pointer;
+    transition:0.5s;
+}
+.gallary-box::before{
+    position: absolute;
+    width:90%;
+    height:90%;
+    content:"";
+    right:0px;
+    top:0px;
+    background-color:#1bbce4a8;
+    opacity:0;
+    transition:0.5s;
+    transform:scale(0.8);
+}
+.gallary-box:hover::before{
+    opacity:1;
+    transform:scale(1);
+}
+.info-gallary{
+    transform:translateX(-20px);
+    opacity:0;
+    transition:0.5s;
+}
+.gallary-box:hover .info-gallary{
+    transform:translateX(0px);
+    opacity:1;
+}

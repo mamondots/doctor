@@ -1,0 +1,7 @@
+.navbar li{
+    list-style:none;
+    transition:0.5s;
+}
+.navbar li:hover{
+    color: #1BBDE4;
+}

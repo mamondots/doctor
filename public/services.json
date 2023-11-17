@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Plastic Surgery",
+        "title": "Plastic Surgery Wide range of facilities and medical services",
+        "images": {
+            "img1": "https://i.ibb.co/sFt2fkD/service-01-770x770.jpg",
+            "img2": "https://i.ibb.co/5FrgGRW/project-01-p1yza7y58lljqyneprs0o4mohs7vw9t289bcmgu1au.jpg"
+        },
+        "description": "Our Project manager adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "offering": [
+            {
+                "offeringTitle": "Standards of Treatment",
+                "offeringDescpt": "We provide standard treatment and latest medical technology with best facility in our clinic."
+            },
+            {
+                "offeringTitle": "Well Communication",
+                "offeringDescpt": "We provide standard treatment and latest medical technology with best facility in our clinic."
+            },
+            {
+                "offeringTitle": "Infection Prevention",
+                "offeringDescpt": "We provide standard treatment and latest medical technology with best facility in our clinic."
+            },
+            {
+                "offeringTitle": "25+ Years Experience",
+                "offeringDescpt": "We provide standard treatment and latest medical technology with best facility in our clinic."
+            }
+        ],
+        "benefitsTitle": "Medical laboratory and specialists services",
+        "benefitsDescrip": "Our Project manager adipisicing elit, sed do eiusmod tempor incididunt ut labore",
+        "benefits": {
+            "benefit_1": "Routine and medical care",
+            "benefit_2": "Excellence in Healthcare every",
+            "benefit_3": "Building a healthy environment.",
+            "benefit_4": "Routine and medical care",
+            "benefit_5": "Excellence in Healthcare every"
+        }
+    },
+    {
+        "name": "Hematology",
+        "title": "Plastic Surgery Wide range of facilities and medical services",
+        "images": {
+            "img1": "https://i.ibb.co/NrBsWkb/service-02-770x770.jpg",
+            "img2": "https://i.ibb.co/5FrgGRW/project-01-p1yza7y58lljqyneprs0o4mohs7vw9t289bcmgu1au.jpg"
+        },
+        "description": "Our Project manager adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "offering": [
+            {
+                "offeringTitle": "Standards of Treatment",
+                "offeringDescpt": "We provide standard treatment and latest medical technology with best facility in our clinic."
+            },
+            {
+                "offeringTitle": "Well Communication",
+                "offeringDescpt": "We provide standard treatment and latest medical technology with best facility in our clinic."
+            },
+            {
+                "offeringTitle": "Infection Prevention",
+                "offeringDescpt": "We provide standard treatment and latest medical technology with best facility in our clinic."
+            },
+            {
+                "offeringTitle": "25+ Years Experience",
+                "offeringDescpt": "We provide standard treatment and latest medical technology with best facility in our clinic."
+            }
+        ],
+        "benefitsTitle": "Medical laboratory and specialists services",
+        "benefitsDescrip": "Our Project manager adipisicing elit, sed do eiusmod tempor incididunt ut labore",
+        "benefits": {
+            "benefit_1": "Routine and medical care",
+            "benefit_2": "Excellence in Healthcare every",
+            "benefit_3": "Building a healthy environment.",
+            "benefit_4": "Routine and medical care",
+            "benefit_5": "Excellence in Healthcare every"
+        }
+    },
+    {
+        "name": "Neurology",
+        "title": "Neurology Surgery Wide range of facilities and medical services",
+        "images": {
+            "img1": "https://i.ibb.co/N2F9MZM/service-03-770x770.jpg",
+            "img2": "https://i.ibb.co/5FrgGRW/project-01-p1yza7y58lljqyneprs0o4mohs7vw9t289bcmgu1au.jpg"
+        },
+        "description": "Our Project manager adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "offering": [
+            {
+                "offeringTitle": "Standards of Treatment",
+                "offeringDescpt": "We provide standard treatment and latest medical technology with best facility in our clinic."
+            },
+            {
+                "offeringTitle": "Well Communication",
+                "offeringDescpt": "We provide standard treatment and latest medical technology with best facility in our clinic."
+            },
+            {
+                "offeringTitle": "Infection Prevention",
+                "offeringDescpt": "We provide standard treatment and latest medical technology with best facility in our clinic."
+            },
+            {
+                "offeringTitle": "25+ Years Experience",
+                "offeringDescpt": "We provide standard treatment and latest medical technology with best facility in our clinic."
+            }
+        ],
+        "benefitsTitle": "Medical laboratory and specialists services",
+        "benefitsDescrip": "Our Project manager adipisicing elit, sed do eiusmod tempor incididunt ut labore",
+        "benefits": {
+            "benefit_1": "Routine and medical care",
+            "benefit_2": "Excellence in Healthcare every",
+            "benefit_3": "Building a healthy environment.",
+            "benefit_4": "Routine and medical care",
+            "benefit_5": "Excellence in Healthcare every"
+        }
+    },
+    {
+        "name": "Gastrologic",
+        "title": "Gastrologic Surgery Wide range of facilities and medical services",
+        "images": {
+            "img1": "https://i.ibb.co/D8CQCw1/service-04-770x770.jpg",
+            "img2": "https://i.ibb.co/5FrgGRW/project-01-p1yza7y58lljqyneprs0o4mohs7vw9t289bcmgu1au.jpg"
+        },
+        "description": "Our Project manager adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "offering": [
+            {
+                "offeringTitle": "Standards of Treatment",
+                "offeringDescpt": "We provide standard treatment and latest medical technology with best facility in our clinic."
+            },
+            {
+                "offeringTitle": "Well Communication",
+                "offeringDescpt": "We provide standard treatment and latest medical technology with best facility in our clinic."
+            },
+            {
+                "offeringTitle": "Infection Prevention",
+                "offeringDescpt": "We provide standard treatment and latest medical technology with best facility in our clinic."
+            },
+            {
+                "offeringTitle": "25+ Years Experience",
+                "offeringDescpt": "We provide standard treatment and latest medical technology with best facility in our clinic."
+            }
+        ],
+        "benefitsTitle": "Medical laboratory and specialists services",
+        "benefitsDescrip": "Our Project manager adipisicing elit, sed do eiusmod tempor incididunt ut labore",
+        "benefits": {
+            "benefit_1": "Routine and medical care",
+            "benefit_2": "Excellence in Healthcare every",
+            "benefit_3": "Building a healthy environment.",
+            "benefit_4": "Routine and medical care",
+            "benefit_5": "Excellence in Healthcare every"
+        }
+    },
+    {
+        "name": "Orthopedic",
+        "title": "Orthopedic Surgery Wide range of facilities and medical services",
+        "images": {
+            "img1": "https://i.ibb.co/hc38bcb/service-05-770x770.jpg",
+            "img2": "https://i.ibb.co/5FrgGRW/project-01-p1yza7y58lljqyneprs0o4mohs7vw9t289bcmgu1au.jpg"
+        },
+        "description": "Our Project manager adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "offering": [
+            {
+                "offeringTitle": "Standards of Treatment",
+                "offeringDescpt": "We provide standard treatment and latest medical technology with best facility in our clinic."
+            },
+            {
+                "offeringTitle": "Well Communication",
+                "offeringDescpt": "We provide standard treatment and latest medical technology with best facility in our clinic."
+            },
+            {
+                "offeringTitle": "Infection Prevention",
+                "offeringDescpt": "We provide standard treatment and latest medical technology with best facility in our clinic."
+            },
+            {
+                "offeringTitle": "25+ Years Experience",
+                "offeringDescpt": "We provide standard treatment and latest medical technology with best facility in our clinic."
+            }
+        ],
+        "benefitsTitle": "Medical laboratory and specialists services",
+        "benefitsDescrip": "Our Project manager adipisicing elit, sed do eiusmod tempor incididunt ut labore",
+        "benefits": {
+            "benefit_1": "Routine and medical care",
+            "benefit_2": "Excellence in Healthcare every",
+            "benefit_3": "Building a healthy environment.",
+            "benefit_4": "Routine and medical care",
+            "benefit_5": "Excellence in Healthcare every"
+        }
+    }
+]
